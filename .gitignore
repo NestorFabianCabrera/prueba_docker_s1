@@ -1,6 +1,6 @@
-backend/Dockerfile
-backend/mysql.Dockerfile
-frontend/Dockerfile
+# backend/Dockerfile
+# backend/mysql.Dockerfile
+# frontend/Dockerfile
 
 /node_modules
 
