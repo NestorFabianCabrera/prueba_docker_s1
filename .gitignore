@@ -1,7 +1,3 @@
-backend/Dockerfile
-backend/mysql.Dockerfile
-frontend/Dockerfile
-
 /node_modules
 
 /build
